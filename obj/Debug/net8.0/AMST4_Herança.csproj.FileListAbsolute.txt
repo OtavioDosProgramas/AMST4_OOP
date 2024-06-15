@@ -1,0 +1,42 @@
+D:\2 AMS\Jeferson\OOP\AMST4_Herança\bin\Debug\net8.0\AMST4_Herança.exe
+D:\2 AMS\Jeferson\OOP\AMST4_Herança\bin\Debug\net8.0\AMST4_Herança.deps.json
+D:\2 AMS\Jeferson\OOP\AMST4_Herança\bin\Debug\net8.0\AMST4_Herança.runtimeconfig.json
+D:\2 AMS\Jeferson\OOP\AMST4_Herança\bin\Debug\net8.0\AMST4_Herança.dll
+D:\2 AMS\Jeferson\OOP\AMST4_Herança\bin\Debug\net8.0\AMST4_Herança.pdb
+D:\2 AMS\Jeferson\OOP\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 AMS\Jeferson\OOP\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.AssemblyInfoInputs.cache
+D:\2 AMS\Jeferson\OOP\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.AssemblyInfo.cs
+D:\2 AMS\Jeferson\OOP\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.csproj.CoreCompileInputs.cache
+D:\2 AMS\Jeferson\OOP\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.dll
+D:\2 AMS\Jeferson\OOP\AMST4_Herança\obj\Debug\net8.0\refint\AMST4_Herança.dll
+D:\2 AMS\Jeferson\OOP\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.pdb
+D:\2 AMS\Jeferson\OOP\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.genruntimeconfig.cache
+D:\2 AMS\Jeferson\OOP\AMST4_Herança\obj\Debug\net8.0\ref\AMST4_Herança.dll
+C:\2AMS\2A\OOP\AMST4_Herança\bin\Debug\net8.0\AMST4_Herança.exe
+C:\2AMS\2A\OOP\AMST4_Herança\bin\Debug\net8.0\AMST4_Herança.deps.json
+C:\2AMS\2A\OOP\AMST4_Herança\bin\Debug\net8.0\AMST4_Herança.runtimeconfig.json
+C:\2AMS\2A\OOP\AMST4_Herança\bin\Debug\net8.0\AMST4_Herança.dll
+C:\2AMS\2A\OOP\AMST4_Herança\bin\Debug\net8.0\AMST4_Herança.pdb
+C:\2AMS\2A\OOP\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\2AMS\2A\OOP\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.AssemblyInfoInputs.cache
+C:\2AMS\2A\OOP\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.AssemblyInfo.cs
+C:\2AMS\2A\OOP\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.csproj.CoreCompileInputs.cache
+C:\2AMS\2A\OOP\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.dll
+C:\2AMS\2A\OOP\AMST4_Herança\obj\Debug\net8.0\refint\AMST4_Herança.dll
+C:\2AMS\2A\OOP\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.pdb
+C:\2AMS\2A\OOP\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.genruntimeconfig.cache
+C:\2AMS\2A\OOP\AMST4_Herança\obj\Debug\net8.0\ref\AMST4_Herança.dll
+C:\Users\Otavio\Desktop\AMST4_Herança\bin\Debug\net8.0\AMST4_Herança.exe
+C:\Users\Otavio\Desktop\AMST4_Herança\bin\Debug\net8.0\AMST4_Herança.deps.json
+C:\Users\Otavio\Desktop\AMST4_Herança\bin\Debug\net8.0\AMST4_Herança.runtimeconfig.json
+C:\Users\Otavio\Desktop\AMST4_Herança\bin\Debug\net8.0\AMST4_Herança.dll
+C:\Users\Otavio\Desktop\AMST4_Herança\bin\Debug\net8.0\AMST4_Herança.pdb
+C:\Users\Otavio\Desktop\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Otavio\Desktop\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.AssemblyInfoInputs.cache
+C:\Users\Otavio\Desktop\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.AssemblyInfo.cs
+C:\Users\Otavio\Desktop\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.dll
+C:\Users\Otavio\Desktop\AMST4_Herança\obj\Debug\net8.0\refint\AMST4_Herança.dll
+C:\Users\Otavio\Desktop\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.pdb
+C:\Users\Otavio\Desktop\AMST4_Herança\obj\Debug\net8.0\AMST4_Herança.genruntimeconfig.cache
+C:\Users\Otavio\Desktop\AMST4_Herança\obj\Debug\net8.0\ref\AMST4_Herança.dll
